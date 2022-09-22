@@ -2,13 +2,14 @@
   
   <div align="center">
 <strong>About Me:</strong><br>
-💻 I'm a young programmer from Moldova who is just getting started.<br>
-📚 I'm currently in my last year of High School.<br>
+💻 I'm a young programmer from Moldova (currently living in Austria) who is just getting started.<br>
+📚 I'm currently in my Freshman year in University (Computer Science).<br>
 🏆 What I've learned so far:
 <br>C++
-<br>C# (in progress)
+<br>C#
+<br>Python (in progress)
     
-📫 Reach me at <a href="cristi.adm19@gmail.com">cristi.adm19@gmail.com</a><br>
+📫 Reach me at <a href="cristianvortolomeicode@gmail.com">cristianvortolomeicode@gmail.com</a><br>
 😄 Also you can DM me on my discord: Cristi 🌟#7455<br><br><br>
 
 <strong>📊 Github stats:</strong><br><br>
