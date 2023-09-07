@@ -10,7 +10,7 @@
 <br>Python (in progress)
     
 📫 Reach me at <a href="cristianvortolomeicode@gmail.com">cristianvortolomeicode@gmail.com</a><br>
-😄 Also you can DM me on my discord: Cristi 🌟#7455<br><br><br>
+😄 Also you can DM me on my discord: cristicode<br><br><br>
 
 <strong>📊 Github stats:</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianvortolomei&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
