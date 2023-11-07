@@ -15,11 +15,6 @@
 <br>- Email: <a href="mailto:cristianvortolomeicode@gmail.com">cristianvortolomeicode@gmail.com</a>
 <br>- Discord: cristicode
 
-</div>
-<strong>📊 Github stats:</strong><br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianvortolomei&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristianvortolomei&theme=radical&hide_border=false"/><br><br>
-
 <strong>💡 My projects' languages:</strong><br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianvortolomei&langs_count_private=true&theme=radical&card_width=445)<br><br>
 </div>
